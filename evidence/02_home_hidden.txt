@@ -1,0 +1,61 @@
+total 202560
+drwxr-xr-x 1 User 197121         0 Oct 16 12:39 .
+drwxr-xr-x 1 User 197121         0 May  8  2025 ..
+drwxr-xr-x 1 User 197121         0 Sep 16 13:04 .VirtualBox
+-rw-r--r-- 1 User 197121      5214 Oct 11 22:11 .bash_history
+drwxr-xr-x 1 User 197121         0 Feb 24  2026 .cache
+drwxr-xr-x 1 User 197121         0 Oct 16 12:39 .codex
+drwxr-xr-x 1 User 197121         0 Feb 24  2026 .config
+drwxr-xr-x 1 User 197121         0 Sep 20 10:31 .copilot
+-rw-r--r-- 1 User 197121        97 Oct 16 12:34 .gitconfig
+drwxr-xr-x 1 User 197121         0 Feb 25  2026 .ipython
+drwxr-xr-x 1 User 197121         0 Feb 25  2026 .jupyter
+-rw-r--r-- 1 User 197121        26 Oct  2 12:34 .lesshst
+drwxr-xr-x 1 User 197121         0 Feb 25  2026 .matplotlib
+-rw-r--r-- 1 User 197121       174 Jun 18 20:52 .packettracer
+drwxr-xr-x 1 User 197121         0 Oct 11 19:58 .ssh
+drwxr-xr-x 1 User 197121         0 Oct 22  2025 .vscode
+drwxr-xr-x 1 User 197121         0 May 20 20:15 .vscode-shared
+drwxr-xr-x 1 User 197121         0 May  8  2025 AppData
+lrwxrwxrwx 1 User 197121        29 May  8  2025 Application Data -> /c/Users/User/AppData/Roaming
+drwxr-xr-x 1 User 197121         0 Oct 10 14:43 CC
+drwxr-xr-x 1 User 197121         0 Jun 18 20:53 Cisco Packet Tracer 9.0.0
+drwxr-xr-x 1 User 197121         0 May  8  2025 Contacts
+lrwxrwxrwx 1 User 197121        57 May  8  2025 Cookies -> /c/Users/User/AppData/Local/Microsoft/Windows/INetCookies
+drwxr-xr-x 1 User 197121         0 Oct 15 21:58 Desktop
+drwxr-xr-x 1 User 197121         0 Oct 16 12:00 Documents
+drwxr-xr-x 1 User 197121         0 Oct 16 11:27 Downloads
+drwxr-xr-x 1 User 197121         0 May  8  2025 Favorites
+drwxr-xr-x 1 User 197121         0 Sep 21 15:16 Lab02
+drwxr-xr-x 1 User 197121         0 Oct  2 12:37 Lab03
+drwxr-xr-x 1 User 197121         0 May  8  2025 Links
+lrwxrwxrwx 1 User 197121        27 May  8  2025 Local Settings -> /c/Users/User/AppData/Local
+drwxr-xr-x 1 User 197121         0 May  8  2025 Music
+lrwxrwxrwx 1 User 197121        23 May  8  2025 My Documents -> /c/Users/User/Documents
+-rw-r--r-- 1 User 197121  14417920 Oct 16 08:19 NTUSER.DAT
+-rw-r--r-- 1 User 197121     65536 May  8  2025 NTUSER.DAT{88e8397e-04c0-11f0-9fda-24b2b92d49f2}.TM.blf
+-rw-r--r-- 1 User 197121    524288 May  8  2025 NTUSER.DAT{88e8397e-04c0-11f0-9fda-24b2b92d49f2}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 User 197121    524288 May  8  2025 NTUSER.DAT{88e8397e-04c0-11f0-9fda-24b2b92d49f2}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 User 197121        65 May  8  2025 NetHood -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Network Shortcuts
+drwxr-xr-x 1 User 197121         0 May  8  2025 OneDrive
+drwxr-xr-x 1 User 197121         0 Sep 10 19:25 Pictures
+lrwxrwxrwx 1 User 197121        65 May  8  2025 PrintHood -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Printer Shortcuts
+lrwxrwxrwx 1 User 197121        54 May  8  2025 Recent -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Recent
+drwxr-xr-x 1 User 197121         0 May  8  2025 Saved Games
+drwxr-xr-x 1 User 197121         0 May  8  2025 Searches
+lrwxrwxrwx 1 User 197121        54 May  8  2025 SendTo -> /c/Users/User/AppData/Roaming/Microsoft/Windows/SendTo
+lrwxrwxrwx 1 User 197121        58 May  8  2025 Start Menu -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Start Menu
+lrwxrwxrwx 1 User 197121        57 May  8  2025 Templates -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Templates
+drwxr-xr-x 1 User 197121         0 Feb 25  2026 TestRecovery
+drwxr-xr-x 1 User 197121         0 Feb 25  2026 Videos
+drwxr-xr-x 1 User 197121         0 Sep 11 11:29 VirtualBox VMs
+drwxr-xr-x 1 User 197121         0 May 21 09:33 airline-backend
+-rw-r--r-- 1 User 197121 180201803 May 22 21:57 airline-backend.zip
+-rw-r--r-- 1 User 197121         0 Feb 25  2026 keylogger.py
+drwxr-xr-x 1 User 197121         0 Oct 16 12:40 lab05-linux
+-rw-r--r-- 1 User 197121   3145728 May  8  2025 ntuser.dat.LOG1
+-rw-r--r-- 1 User 197121   3682304 May  8  2025 ntuser.dat.LOG2
+-rw-r--r-- 1 User 197121        20 May  8  2025 ntuser.ini
+drwxr-xr-x 1 User 197121         0 Oct  2 19:17 samreenzia75.github.io
+drwxr-xr-x 1 User 197121         0 Oct 21  2025 source
+-rwxr-xr-x 1 User 197121   4460176 Oct 22  2025 vs_community.exe

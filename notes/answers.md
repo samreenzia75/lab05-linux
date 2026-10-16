@@ -1,0 +1,1 @@
+/bin contains essential system binaries and utilities required for system booting and basic operation. /usr/bin contains standard user commands and non-essential applications installed by the system package manager. /usr/local/bin is reserved for user-installed custom software and binaries compiled locally to avoid conflicts with system packages.
